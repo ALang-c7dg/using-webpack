@@ -1,0 +1,11 @@
+body {
+    background-color: seagreen;
+}
+p {
+    background-color: cadetblue;
+    font-size: xx-large;
+}
+section{
+    background-size: 60px;
+    background-image: url('../ronni-kurtz-CB9zVvIRdFE-unsplash.jpg');
+}
